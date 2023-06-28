@@ -24,7 +24,6 @@ This tutorial outlines the ticket life examples of the open-source help desk tic
 - Accounting department needs an adobe upgrade (broken)
 - CFO's laptop seems a bit slow 
 
-<h2>Installation Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/8HLpuou.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
