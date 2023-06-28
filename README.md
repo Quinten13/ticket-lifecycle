@@ -18,14 +18,12 @@ This tutorial outlines the ticket life examples of the open-source help desk tic
 
 - Windows 10</b> (21H2)
 
-<h2>Ticket Lifestyle Examples</h2>
+<h2>Three Ticket Lifestyle Examples</h2>
 
-- Install and enable IIS in windows with CGI
-- Next install PHP manager for IIS
-- Then install the rewrite module
-- After that download a PHP 7.3.8 zip file 
-- Then install a VC redist file
-- Lastly install the MYSQL to set up information 
+- Entire mobile/online banking system is down (contact sysAdmins)
+- Accounting department needs an adobe upgrade (broken)
+- CFO's laptop seems a bit slow
+- 
 
 <h2>Installation Steps</h2>
 
