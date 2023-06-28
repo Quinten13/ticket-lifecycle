@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket -Ticket Lifestyle Examples</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the ticket life examples of the open-source help desk ticketing system osTicket.<br />
 
 
 
