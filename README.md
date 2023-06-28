@@ -20,7 +20,7 @@ This tutorial outlines the ticket life examples of the open-source help desk tic
 
 <h2>Three Ticket Lifestyle Examples</h2>
 
-- Entire mobile/online banking system is down (contact sysAdmins)
+- Entire mobile/online banking system is down (contact SysAdmins)
 - Accounting department needs an adobe upgrade (broken)
 - CFO's laptop seems a bit slow
 - 
