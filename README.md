@@ -34,7 +34,7 @@ This tutorial outlines the ticket life examples of the open-source help desk tic
 <br />
 
 <p>
-<img src="https://i.imgur.com/e30PGFX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/38ZWtiD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   
