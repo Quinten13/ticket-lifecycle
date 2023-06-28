@@ -22,8 +22,7 @@ This tutorial outlines the ticket life examples of the open-source help desk tic
 
 - Entire mobile/online banking system is down (contact SysAdmins)
 - Accounting department needs an adobe upgrade (broken)
-- CFO's laptop seems a bit slow
-- 
+- CFO's laptop seems a bit slow 
 
 <h2>Installation Steps</h2>
 
